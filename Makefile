@@ -1,5 +1,5 @@
 CFLAGS = -Wall
-OBJS = func1.o myapp.o
+OBJS = func2.o func1.o myapp.o
 TARGET = myapp
 .PHONY: clean
 
