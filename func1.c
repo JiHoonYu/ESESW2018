@@ -4,4 +4,5 @@
 void func1()
 {
   printf("hello func1\n");
+  printf("goodbye func1\n");
 }
