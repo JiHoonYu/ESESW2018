@@ -31,5 +31,7 @@ int main()
   turbo_off();
   postprocess();
   
+  printf("bye\n");
+
   return 0;
 }
